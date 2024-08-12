@@ -1,27 +1,27 @@
 # Aim -
-To learn about for loop and while loop.
+To study and implement C++ decision making statement loops.
 
 ## Software Used -
 VS Code
 
 ## Problem Statement -
-1.) Write a c++ code for printing numbers using for loop.
+- Write a c++ code for printing numbers using for loop.
 
-2.) Write a c++ code for printing numbers using while loop.
+- Write a c++ code for printing numbers using while loop.
 
-3.) Write a c++ code for making a triangular star pattern.
+- Write a c++ code for making a triangular star pattern.
 
-4.) Write a c++ code for making a square shaped star pattern.
+- Write a c++ code for making a square shaped star pattern.
 
-5.) Write a c++ code for making a pyramid of star.
+- Write a c++ code for making a pyramid of star.
 
-6.) Write a c++ code to get sum of the numbers printed.
+- Write a c++ code to get sum of the numbers printed.
 
-7.) Write a c++ code to make a Floyd triangle.
+- Write a c++ code to make a Floyd triangle.
 
-8.) Write a c++ code to make Floyd triangle of alphabets.
+- Write a c++ code to make Floyd triangle of alphabets.
 
-9.) Write a c++ code for password validation till correct password is entered.
+- Write a c++ code for password validation till correct password is entered.
 
 ## Theory -
 Loops are used to make the program less repetitive and compact ny iterating a part of a program several times .Thus,they are also  called repetitive control structures.
@@ -84,7 +84,7 @@ int main() {
 ```
 
 ## Program codes
-### 1. *Printing numbers using for loop* -
+### 1. *Printing numbers using for loop* 
 ```
 #include<iostream>
 using namespace std;
@@ -101,7 +101,7 @@ int main()
 }
 ```
 
-### 2. *Printing numbers using while loop* -
+### 2. *Printing numbers using while loop* 
 ```
 #include<iostream>
 using namespace std;
@@ -119,7 +119,7 @@ int main ()
 }
 ```
 
-### 3. *Triangular star pattern* -
+### 3. *Triangular star pattern* 
 ```
 #include<iostream>
 using namespace std;
@@ -139,7 +139,7 @@ int main ()
 }
 ```
 
-### 4. *Square shaped star pattern* -
+### 4. *Square shaped star pattern* 
 ```
 #include<iostream>
 using namespace std;
@@ -158,7 +158,7 @@ int main ()
 }
 ```
 
-### 5. *Pyramid of star* -
+### 5. *Pyramid of star* 
 ```
 #include<iostream>
 using namespace std;
@@ -182,7 +182,7 @@ int main ()
 }
 ```
 
-### 6. *Sum of the numbers printed* -
+### 6. *Sum of the numbers printed* 
 ```
 #include<iostream>
 using namespace std;
@@ -203,7 +203,7 @@ int main()
 }
 ```
 
-### 7. *Floyd triangle* -
+### 7. *Floyd triangle* 
 ```
 #include<iostream>
 using namespace std;
@@ -225,7 +225,7 @@ int main()
 }
 ```
 
-### 8. *Floyd triangle of alphabets* -
+### 8. *Floyd triangle of alphabets* 
 ```
 #include<iostream>
 using namespace std;
@@ -248,7 +248,7 @@ int main()
 }
 ```
 
-### 9. *Password validation* -
+### 9. *Password validation* 
 ```
 #include<iostream>
 #include<string>
@@ -275,11 +275,23 @@ return 0;
 
 ## Output -
 ### 1. *Printing numbers using for loop* -
+![Screenshot 2024-08-13 042449](https://github.com/user-attachments/assets/83264439-69cc-47db-a604-08f020ad5e10)
 ### 2. *Printing numbers using while loop* -
+![Screenshot 2024-08-13 042541](https://github.com/user-attachments/assets/4c7b5cbe-29d6-44b4-9e4f-d37cb78a2dda)
 ### 3. *Triangular star pattern* -
+![Screenshot 2024-08-13 042600](https://github.com/user-attachments/assets/c642ec00-217f-475c-8fa1-95ed0251797f)
 ### 4. *Square shaped star pattern* -
+![Screenshot 2024-08-13 042620](https://github.com/user-attachments/assets/3ad255a7-5a7b-45e5-8ff3-04343bc5f82d)
 ### 5. *Pyramid of star* -
+![Screenshot 2024-08-13 042639](https://github.com/user-attachments/assets/d76143ba-30f9-49ca-9e61-2830d0a76001)
 ### 6. *Sum of the numbers printed* -
+![Screenshot 2024-08-13 042729](https://github.com/user-attachments/assets/9480efbb-35da-4c8d-a596-79924a1f542e)
 ### 7. *Floyd triangle* -
+![Screenshot 2024-08-13 042757](https://github.com/user-attachments/assets/2cff1e40-e38d-4096-945b-896ee14ab476)
 ### 8. *Floyd triangle of alphabets* -
+![Screenshot 2024-08-13 042821](https://github.com/user-attachments/assets/bdf36bca-1705-4a5f-bf71-1bf7d853d79c)
 ### 9. *Password validation* -
+![Screenshot 2024-08-13 042913](https://github.com/user-attachments/assets/e65b558b-0e34-4d4d-81bc-a0eda528781f)
+
+## Conclusion:-
+Decision-making statements like if, elif, and else control code execution based on conditions, while loops (for and while) repeat code blocks. Combining these allows dynamic, responsive programming. For example, using if statements within loops enables actions based on conditions during each iteration, efficiently handling varying data and scenarios.
