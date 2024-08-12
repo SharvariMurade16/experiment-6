@@ -272,3 +272,14 @@ while (pass != "SIT");
 return 0;
 }
 ```
+
+## Output -
+### 1. *Printing numbers using for loop* -
+### 2. *Printing numbers using while loop* -
+### 3. *Triangular star pattern* -
+### 4. *Square shaped star pattern* -
+### 5. *Pyramid of star* -
+### 6. *Sum of the numbers printed* -
+### 7. *Floyd triangle* -
+### 8. *Floyd triangle of alphabets* -
+### 9. *Password validation* -
